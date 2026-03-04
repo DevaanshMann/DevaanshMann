@@ -1,4 +1,4 @@
-#👋🏽 Hi, I am Devaansh Mann
+## 👋🏽 Hi, I am Devaansh Mann
 
 ### 💻 Passionate Developer | ML Researcher | Full-Stack Engineer
 ### 🚀 Building Products That Solve Real Human Problems
