@@ -74,15 +74,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevaanshMann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=DevaanshMann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaanshMann&show_icons=true&theme=tokyonight&hide_border=true)" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevaanshMann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaanshMann&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DevaanshMann&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages](https://readme-stats.vercel.app/api?username=DevaanshMann&show_icons=true&theme=tokyonight&hide_border=true)" />
 </p>
 
 ---
