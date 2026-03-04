@@ -1,5 +1,6 @@
-# 💻 Passionate Developer | ML Researcher | Full-Stack Engineer
+#👋🏽 Hi, I am Devaansh Mann
 
+### 💻 Passionate Developer | ML Researcher | Full-Stack Engineer
 ### 🚀 Building Products That Solve Real Human Problems
 
 - 🔭 Currently building **CollegeBuddy** — a campus social network fighting student isolation with .edu email auth, WebSockets & JWT
